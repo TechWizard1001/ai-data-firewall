@@ -6,6 +6,9 @@ An n8n pipeline that sits between raw customer messages and any LLM. It decides 
 
 All data in this repo is synthetic.
 
+
+![The AI Data Firewall workflow in n8n](docs/n8n-canvas.png)
+
 ---
 
 ## How it works
